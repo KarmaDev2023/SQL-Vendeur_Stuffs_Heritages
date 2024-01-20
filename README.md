@@ -1,7 +1,7 @@
 # Vendeur-Stuffs-Heritages
 SQL du vendeur des stuffs heritages
 
-For AzerothCore !
+Pour / For AzerothCore - Wotlk 3.3.5 12340
 
 ---------------------------------------------------------------------------------
 
