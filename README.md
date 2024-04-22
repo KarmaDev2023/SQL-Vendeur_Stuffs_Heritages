@@ -1,6 +1,7 @@
 # SQL-Vendeur_de_Stuffs_Heritages
 
-![github_vendeurstuffsheritages](https://github.com/KarmaDev2023/SQL-Vendeur_Stuffs_Heritages/assets/149789206/b13e2303-7c6e-4b4d-aaec-e7a26b448b7a)
+![github_vendeurstuffsheritages](https://github.com/KarmaDev2023/SQL-Vendeur_Stuffs_Heritages/assets/149789206/722ac025-8301-4d4b-a82a-a319ab763650)
+
 
 SQL du vendeur des stuffs heritages
 
@@ -14,13 +15,13 @@ NPC Id : 9000001 - Vendeur Stuffs Heritages
 
 Français :
 
-Insérez le SQL dans la table acore_world de votre serveur à l'aide de Heidisql.
+Insérez le SQL dans la table acore_world de votre serveur à l'aide de Navicate.
 
 ---------------------------------------------------------------------------------
 
 English :
 
-Insert SQL to acore_world table in your server with Heidisql.
+Insert SQL to acore_world table in your server with Navicate.
 
 ---------------------------------------------------------------------------------
 
